@@ -1,0 +1,11 @@
+[zabbix-3.4]
+name=zabbix-3.4
+baseurl= http://10.31.165.45:8081/repository/zabbix-3.4/
+enabled=1
+gpgcheck=0
+
+[zabbix-nonsupported-3.4]
+name=zabbix-nonsupported-3.4
+baseurl= http://10.31.165.45:8081/repository/zabbix-nonsupported-3.4/
+enabled=1
+gpgcheck=0
